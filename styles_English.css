@@ -7,6 +7,9 @@ body{
 p {
 	font-size: 100px;
 	float: left;
+	padding: 25px;
+	border: 2px solid black;
+	border-radius: 25px;
 }
 
 .inner {
@@ -17,6 +20,5 @@ p {
 	top: 50%;
 	left: 50%;
 	transform: translateY(-50%) translateX(-50%);	
-	background-color: pink;
 }
 
